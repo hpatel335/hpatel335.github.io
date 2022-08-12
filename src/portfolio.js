@@ -70,32 +70,32 @@ https://fontawesome.com/icons?d=gallery */
     //   skillName: "C++",
     //   fontAwesomeClassname: "fab fa-cuttlefish",
     // },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
+    // {
+    //   skillName: "JavaScript",
+    //   fontAwesomeClassname: "fab fa-js"
+    // },
+    // {
+    //   skillName: "reactjs",
+    //   fontAwesomeClassname: "fab fa-react"
+    // },
+    // {
+    //   skillName: "nodejs",
+    //   fontAwesomeClassname: "fab fa-node"
+    // },
+    // {
+    //   skillName: "swift",
+    //   fontAwesomeClassname: "fab fa-swift"
+    // },
+    // {
+    //   skillName: "npm",
+    //   fontAwesomeClassname: "fab fa-npm"
+    // },
     // {
     //   skillName: "python",
     //   fontAwesomeClassname: "fab fa-python"
     // },
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Education Section
