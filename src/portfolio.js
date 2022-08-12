@@ -38,7 +38,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/harshp27/",
   gmail: "harshsph@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
-  instagram: "https://instagram.com/itshpat",
+  // instagram: "https://instagram.com/itshpat",
   // twitter: "https://twitter.com/harshpat27",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
@@ -54,11 +54,11 @@ const skillsSection = {
   subTitle: "ROBOTICS ENGINEER WHO CONSTANTLY BREAKS THINGS",
   skills: [
     emoji(
-      "✨ Create state estimation and control algorithms to promote autonomy"
+      "✨ Building robust solutions to stimulate autonomy"
     ),
     emoji("✨ Design and prototype physical testbeds for rapid testing"),
     emoji(
-      "✨ Skills I'm currently working on developing ..."
+      "✨ Exploring the intersection between controls, perception, and ML"
     )
   ],
 
@@ -95,7 +95,7 @@ https://fontawesome.com/icons?d=gallery */
     //   fontAwesomeClassname: "fab fa-python"
     // },
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -111,7 +111,7 @@ const educationInfo = {
       desc: "Notable Coursework:",
       descBullets: [
         "Nonlinear Systems, Optimal-Based Learning Control",
-        "Artificial Intelligence, Machine Learning", 
+        "Artificial Intelligence, Machine Learning",
         "Computer Vision, Deep Learning"
       ]
     },
@@ -122,10 +122,10 @@ const educationInfo = {
       duration: "August 2017 - December 2021",
       desc: "Notable Coursework:",
       descBullets: [
-        "Avionics Integration", 
-        "Robotics & Autonomy", 
+        "Avionics Integration",
+        "Robotics & Autonomy",
         "Accident Causation Prevention and System Safety",
-        "Spacecraft Flight Dynamics"	
+        "Spacecraft Flight Dynamics"
       ]
     }
   ]
@@ -147,7 +147,7 @@ const techStack = {
     {
       Stack: "ROS, KubOS",
       progressPercentage: "80%"
-    }, 
+    },
     {
       Stack: "SolidWorks, Eagle",
       progressPercentage: "50%"
@@ -157,7 +157,7 @@ const techStack = {
     //   Stack: "Tennis",
     //   progressPercentage: "40%"
 
-    // },   
+    // },
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -172,7 +172,7 @@ const workExperiences = {
       company: "NASA Jet Propulsion Laboratory",
       companylogo: require("./assets/images/nasa.png"),
       date: "Jan 2020 – May 2020",
-      desc: "Implemented a 6-DOF nonlinear controller, and a polynomial guidance law for a Martian Entry Descent and Landing platform using the JPL's DARTS simulation framework" 
+      desc: "Implemented a 6-DOF nonlinear controller, and a polynomial guidance law for a Martian Entry Descent and Landing platform using the JPL's DARTS simulation framework"
     },
     {
       role: "Software Engineer Intern",
@@ -220,9 +220,9 @@ const bigProjects = {
         {
           name: "Mission Website [TBD]",
           url: "https://ssdl.gatech.edu/research/projects"
-        }, 
+        },
         {
-          name : "Cool Photos", 
+          name : "Cool Photos",
           url : "https://photos.app.goo.gl/Up5rWhvVnC38LoU96"
         }
       ]
