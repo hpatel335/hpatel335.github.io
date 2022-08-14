@@ -27,7 +27,7 @@ const greeting = {
     and AI, I'm always interested in learning new topics and exploring their potential for disruptive and innovative change."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1KMG-bNRk51Sel9h4JKfnIiBq1ilJ95Pi/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1iRtZjPExSZHMP9_x70zswoWGHD9AlqqG/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
